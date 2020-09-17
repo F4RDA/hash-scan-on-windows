@@ -1,13 +1,13 @@
 # Hash Scan on Your File System
 
 
-* virus_hash.txt dosyası içerisine tespit ettiğiniz malware MD5 hashlerini her satıra bir adet gelecek şekilde yazın
-* Eğer C sürücüsünün dışına bir sürücüyü taramak isterseniz 4. satırdaki pathi değiştirmeniz yeterli
-* Scripti çalıştırdığınız yerde Reports.txt adında bir dosya oluşturacak ve içerisine scriptin yakaladığı dosyaları listeleyecek
+* virus_hash.txt dosyasÄ± iÃ§erisine tespit ettiÄŸiniz malware MD5 hashlerini her satÄ±ra bir adet gelecek ÅŸekilde yazÄ±n
+* EÄŸer C sÃ¼rÃ¼cÃ¼sÃ¼nÃ¼n dÄ±ÅŸÄ±na bir sÃ¼rÃ¼cÃ¼yÃ¼ taramak isterseniz 4. satÄ±rdaki pathi deÄŸiÅŸtirmeniz yeterli
+* Scripti Ã§alÄ±ÅŸtÄ±rdÄ±ÄŸÄ±nÄ±z yerde Reports.txt adÄ±nda bir dosya oluÅŸturacak ve iÃ§erisine scriptin yakaladÄ±ÄŸÄ± dosyalarÄ± listeleyecek
 
 
-find_virus_file.ps1 Windows Server 2012 - 2016 ve 2019 için geliştirilip test edilmiştir.
-find_virus_file_2008.ps1 Windows Server 2008 ve Windows 7 pro için geliştirilip test edilmiştir.
+find_virus_file.ps1 Windows Server 2012 - 2016 ve 2019 iÃ§in geliÅŸtirilip test edilmiÅŸtir.
+find_virus_file_2008.ps1 Windows Server 2008 ve Windows 7 pro iÃ§in geliÅŸtirilip test edilmiÅŸtir.
 
->>> Not: Scripti çalıştırabilmek için ExecutionPolicy Bypass edilmeli.
+> Not: Scripti Ã§alÄ±ÅŸtÄ±rabilmek iÃ§in ExecutionPolicy Bypass edilmeli.
  
